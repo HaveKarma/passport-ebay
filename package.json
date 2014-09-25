@@ -16,12 +16,12 @@
   },
   "main": "./lib/passport-ebay",
   "dependencies": {
-    "pkginfo": "0.2.x",
-    "passport": "~0.1.1",
     "debug": "*",
-    "ebay-api" : "git://github.com/craigedmunds/nodejs-ebay-api.git"
+    "ebay-api": "^0.1.1",
+    "passport": "~0.2.1",
+    "pkginfo": "0.2.x"
   },
-  "devDependencies" : {
+  "devDependencies": {
     "jasmine-node": "*"
   },
   "engines": {
