@@ -17,7 +17,7 @@
   "main": "./lib/passport-ebay",
   "dependencies": {
     "debug": "*",
-    "ebay-api": "^0.1.1",
+    "ebay-api": "HaveKarma/nodejs-ebay-api",
     "passport": "~0.2.1",
     "pkginfo": "0.2.x"
   },
